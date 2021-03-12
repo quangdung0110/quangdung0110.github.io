@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Huy Nguyen"
-  avatar           : "huy.jpeg"
+  avatar           : "huynm.jpeg"
   bio              : "AI Research Resident at <a style='color: black;' href='https://www.vinai.io/'>VinAI Research, Vietnam</a>"
   location         : "Hanoi, Vietnam"
   employer         :
-  pubmed           : "https://www.vinai.io/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_YYwzhQAAAAJ&hl=vi"
   email            : "minhhuy081199@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/huy-nguyen-564117209/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
