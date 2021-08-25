@@ -4,7 +4,7 @@ Complexity, Low-rank Approximation, and Barycenter
 Computation"
 category: articles
 permalink: "/publications/ROT/"
-venue: "Under review at International Conference on Machine Learning (ICML) 2021"
+venue: "Under review"
 date: 13-02-2021
 link: https://arxiv.org/abs/2102.06857
 ---
