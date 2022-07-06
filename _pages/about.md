@@ -17,8 +17,9 @@ Email: huynm@utexas.edu
 ## Research Interests 
 My current research focuses mainly on Optimal Transport theory, in which I utilize various techniques to lower the computational complexity of Optimal Transport algorithms. Additionally, I am also interested in developing a theoretical understanding of Wasserstein distance and its variants between common distributions, particularly Gaussians. On the application side, I have recently used Optimal Transport to study the label shift and data shift problems in Domain Adaptation.
 ## Recent News
-- **[May 2022]** Our paper "[Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961)" is accepted to ICML 2022
-- **[Jan 2022]** Our paper "[On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://proceedings.mlr.press/v151/le22a/le22a.pdf)" is accepted to AISTATS 2022
+- **[May 2022]** Our paper "[Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961)" is accepted to ICML 2022.
+- **[Feb 2022]** I am awarded the Doctoral Fellowship of the University of Texas at Austin.
+- **[Jan 2022]** Our paper "[On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://proceedings.mlr.press/v151/le22a/le22a.pdf)" is accepted to AISTATS 2022.
 ## Preprints
 <span style="color:red"> (**\*) denotes equal contribution.** </span> <br/>
 ### On Label Shift in Domain Adaptation via Wasserstein Distance
