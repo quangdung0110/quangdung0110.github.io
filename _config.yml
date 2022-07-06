@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huy Nguyen"
 title_separator          : "-"
 name                     : &name "Huy Nguyen"
-description              : &description "AI Research Resident at VinAI Research"
+description              : &description "Ph.D Student at the University of Texas at Austin"
 url                      : https://huynm99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huynm99/huynm99.github.io"
@@ -82,11 +82,11 @@ author:
   avatar           : "huynm.jpeg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "AI Research Resident at <br/> <a style='color: black;' href='https://www.vinai.io/'>VinAI Research, Vietnam</a>"
-  location         : "Hanoi, Vietnam"
+  bio              : "Ph.D Student at the <a style='color: black;' href='https://stat.utexas.edu/'>Department of Statistics and Data Sciences</a>, <a style='color: black;' href='https://www.utexas.edu/'>University of Texas at Austin</a>"
+  location         : "Texas, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_YYwzhQAAAAJ&hl=en"
-  email            : "minhhuy081199@gmail.com"
+  email            : "huynm@utexas.edu"
   uri              : 
   bitbucket        :
   codepen          :
