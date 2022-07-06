@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-My full name is Huy Minh Nguyen, and I am an incoming Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/). Before that, I graduated from the Faculty of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science as a valedictorian with a GPA of 9.75/10.0 (~ 3.93/4.0) in 2020. 
+My full name is Huy Minh Nguyen, and I am an incoming Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before that, I graduated from the Faculty of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science as a valedictorian with a GPA of 9.75/10.0 (~ 3.93/4.0) in 2020. 
 
 Email: huynm@utexas.edu
 ## Research Interests 
