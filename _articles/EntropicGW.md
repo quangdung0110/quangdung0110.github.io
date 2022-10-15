@@ -4,10 +4,10 @@ category: articles
 permalink: "/publications/EntropicGW/"
 venue: "39th International Conference on Machine Learning (ICML)"
 date: 17-07-2022
-link: https://arxiv.org/abs/2108.10961
+link: https://proceedings.mlr.press/v162/le22a.html
 ---
 
-[comment]: <> (<a href="https://arxiv.org/pdf/2108.10961.pdf">Arxiv</a>.)
+[comment]: <> (<a href="https://proceedings.mlr.press/v162/le22a.html">Arxiv</a>.)
 <b>Huy Nguyen\*</b>, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho
 
 Abstract: We study the entropic Gromov-Wasserstein and its unbalanced version between (unbalanced)
