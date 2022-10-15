@@ -4,10 +4,10 @@ category: articles
 permalink: "/publications/MPOT/"
 venue: "25th International Conference on Artificial Intelligence and Statistics (AISTATS)"
 date: 28-03-2022
-link: https://arxiv.org/abs/2108.07992
+link: https://proceedings.mlr.press/v151/le22a.html
 ---
 
-[comment]: <> (<a href="https://arxiv.org/pdf/2108.07992.pdf">Arxiv</a>.)
+[comment]: <> (<a href="https://proceedings.mlr.press/v151/le22a.html">Arxiv</a>.)
 <b>Huy Nguyen\*</b>, Khang Le\*, Khai Nguyen, Tung Pham, Nhat Ho
 
 Abstract: We study the multi-marginal partial optimal transport (POT) problem between m discrete
