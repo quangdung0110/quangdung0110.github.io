@@ -7,7 +7,7 @@ date: 30-09-2022
 link: https://arxiv.org/abs/2209.13570
 ---
 
-[comment]: <> (<a href="https://arxiv.org/pdf/2108.10961.pdf">Arxiv</a>.)
+[comment]: <> (<a href="https://arxiv.org/abs/2209.13570">Arxiv</a>.)
 Khai Nguyen, Tongzheng Ren, <b>Huy Nguyen\*</b>, Litu Rout, Tan Nguyen, Nhat Ho
 
 Abstract: Sliced Wasserstein (SW) distance has been widely used in different application scenarios
