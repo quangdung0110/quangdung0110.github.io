@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Sliced Wasserstein Distance"
 category: articles
-permalink: "/publications/EPEM/"
+permalink: "/publications/HSW/"
 venue: "Under review"
 date: 30-09-2022
 link: https://arxiv.org/abs/2209.13570
