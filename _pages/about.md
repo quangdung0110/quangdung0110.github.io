@@ -17,7 +17,7 @@ Email: huynm@utexas.edu
 ## Research Interests 
 My current research focuses mainly on Optimal Transport theory, in which I utilize various techniques to lower the computational complexity of Optimal Transport algorithms. Additionally, I am also interested in Mixture Models and its applications in Deep Learning.
 ## Recent News
-- **[Oct 2022]** Two new papers about Sliced-Wasserstein distance are out! See more at [1](https://arxiv.org/abs/2210.10268) and [2](https://arxiv.org/abs/2209.13570).
+- **[Oct 2022]** Two new papers about Sliced-Wasserstein distance are out! See more at [[1]](https://arxiv.org/abs/2210.10268) and [[2]](https://arxiv.org/abs/2209.13570).
 - **[May 2022]** Our paper "[Entropic Gromov-Wasserstein between Gaussian Distributions](https://proceedings.mlr.press/v162/le22a.html)" is accepted to ICML 2022.
 - **[Feb 2022]** I am awarded the Doctoral Fellowship of the University of Texas at Austin.
 - **[Jan 2022]** Our paper "[On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://proceedings.mlr.press/v151/le22a.html)" is accepted to AISTATS 2022.
