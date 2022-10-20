@@ -34,9 +34,12 @@ My current research focuses mainly on Optimal Transport theory, in which I utili
 35th Conference on Neural Information Processing Systems (NeurIPS 2021)  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html)]
 
 ## Preprints
+### Fast Approximation of the Generalized Sliced-Wasserstein Distance
+*Dung Le\*, __Huy Nguyen\*__, Khai Nguyen\*, Trang Nguyen, Nhat Ho*
+Under review [[arXiv](https://arxiv.org/abs/2210.10268)]
 ### Hierarchical Sliced Wasserstein Distance
 *Khai Nguyen, Tongzheng Ren, __Huy Nguyen__, Litu Rout, Tan Nguyen, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2209.13570)]
 
 ## Professional Services
-Reviewer at AISTATS (2022,2023), ICML (2022), NeurIPS (2022).
+Reviewer at AISTATS (2022, 2023), ICML (2022), NeurIPS (2022).
