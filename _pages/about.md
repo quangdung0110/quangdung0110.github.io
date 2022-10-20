@@ -11,12 +11,13 @@ redirect_from:
 {% include base_path %}
 
    
-My full name is Huy Minh Nguyen, and I am a first-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before that, I graduated from the Department of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science. 
+Welcome to my homepage! My full name is Huy Minh Nguyen, and I am a first-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before that, I graduated from the Department of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science. 
 
 Email: huynm@utexas.edu
 ## Research Interests 
 My current research focuses mainly on Optimal Transport theory, in which I utilize various techniques to lower the computational complexity of Optimal Transport algorithms. Additionally, I am also interested in Mixture Models and its applications in Deep Learning.
 ## Recent News
+- **[Oct 2022]** Two new papers about Sliced-Wasserstein distance are out! See more at [1](https://arxiv.org/abs/2210.10268) and [2](https://arxiv.org/abs/2209.13570).
 - **[May 2022]** Our paper "[Entropic Gromov-Wasserstein between Gaussian Distributions](https://proceedings.mlr.press/v162/le22a.html)" is accepted to ICML 2022.
 - **[Feb 2022]** I am awarded the Doctoral Fellowship of the University of Texas at Austin.
 - **[Jan 2022]** Our paper "[On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://proceedings.mlr.press/v151/le22a.html)" is accepted to AISTATS 2022.
@@ -35,11 +36,11 @@ My current research focuses mainly on Optimal Transport theory, in which I utili
 
 ## Preprints
 ### Fast Approximation of the Generalized Sliced-Wasserstein Distance
-*Dung Le\*, __Huy Nguyen\*__, Khai Nguyen\*, Trang Nguyen, Nhat Ho*
+*Dung Le\*, __Huy Nguyen\*__, Khai Nguyen\*, Trang Nguyen, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2210.10268)]
 ### Hierarchical Sliced Wasserstein Distance
 *Khai Nguyen, Tongzheng Ren, __Huy Nguyen__, Litu Rout, Tan Nguyen, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2209.13570)]
 
 ## Professional Services
-Reviewer at AISTATS (2022, 2023), ICML (2022), NeurIPS (2022).
+Reviewer at ICML (2022), NeurIPS (2022), AISTATS (2022, 2023).
