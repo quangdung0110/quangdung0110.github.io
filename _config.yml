@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Dung Le "
 title_separator          : "-"
 name                     : &name "Dung Le"
-description              : &description "Ph.D Student at the University of Texas at Austin"
+description              : &description "*Ingénieur* student (Master's level) in École Polytechnique"
 url                      : https://quangdung0110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quangdung0110/quangdung0110.github.io"
@@ -104,7 +104,7 @@ author:
   soundcloud       :
   steam            :
   tumblr           :
-  twitter          : "@huynm99"
+  twitter          :
   vine             :
   weibo            :
   xing             :
