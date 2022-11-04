@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Huy Minh Nguyen, and I am a first-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before that, I graduated from the Department of Mathematics and Computer Science, Vietnam National University Ho Chi Minh City, University of Science. 
+Welcome to my homepage! My full name is Quang Dung Le (in Vietnamese: Lê Quang Dũng, in Chinese: 黎光勇) and I am a second-year *Ingénieur* student (Master's level) at the [École Polytechnique](https://www.polytechnique.edu). Before that, I graduated from the Department of Mathematics, Mechanics, and Informatics, VNU University of Science, Ha Noi
 
-Email: huynm@utexas.edu
+Email: dung.le-quang@polytechnique.edu
 ## Research Interests 
 My current research focuses mainly on Optimal Transport theory, in which I utilize various techniques to lower the computational complexity of Optimal Transport algorithms. Additionally, I am also interested in Mixture Models and its applications in Deep Learning.
 ## Recent News
