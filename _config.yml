@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Huy Nguyen"
+locale                   : "fr-FR"
+title                    : "Dung Le "
 title_separator          : "-"
-name                     : &name "Huy Nguyen"
+name                     : &name "Dung Le"
 description              : &description "Ph.D Student at the University of Texas at Austin"
-url                      : https://huynm99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://quangdung0110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huynm99/huynm99.github.io"
+repository               : "quangdung0110/quangdung0110.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@HuyNguy63796499"
+  username               :
 facebook:
   username               : 
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huy Nguyen"
+  name             : "Dung Le"
   avatar           : "huynm.jpeg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
