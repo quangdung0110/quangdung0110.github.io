@@ -23,24 +23,17 @@ My current research focuses mainly on Optimal Transport theory, in which I utili
 - **[Jan 2022]** Our paper "[On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://proceedings.mlr.press/v151/le22a.html)" is accepted to AISTATS 2022.
 
 <span style="color:red"> (**\*) denotes equal contribution.** </span> <br/>
-## Selected Publications
+## Publications
 ### Entropic Gromov-Wasserstein between Gaussian Distributions
-*__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
+*Huy Nguyen\*, Khang Le\*, __Dung Le__\*, Dat Do, Tung Pham, Nhat Ho*<br/>
 39th International Conference on Machine Learning (ICML 2022)  [[arXiv](https://arxiv.org/abs/2108.10961)] [[ICML](https://proceedings.mlr.press/v162/le22a.html)]
-### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
-*__Huy Nguyen\*__, Khang Le\*, Khai Nguyen, Tung Pham, Nhat Ho*<br/>
-25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  [[arXiv](https://arxiv.org/abs/2108.07992)] [[AISTATS](https://proceedings.mlr.press/v151/le22a.html)]
-### On Robust Optimal Transport: Computational Complexity and Barycenter Computation
-*__Huy Nguyen\*__, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho*<br/>
-35th Conference on Neural Information Processing Systems (NeurIPS 2021)  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html)]
+
 
 ## Preprints
 ### Fast Approximation of the Generalized Sliced-Wasserstein Distance
-*Dung Le\*, __Huy Nguyen\*__, Khai Nguyen\*, Trang Nguyen, Nhat Ho*<br/>
+*__Dung Le\*__, Huy Nguyen\*, Khai Nguyen\*, Trang Nguyen, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2210.10268)]
-### Hierarchical Sliced Wasserstein Distance
-*Khai Nguyen, Tongzheng Ren, __Huy Nguyen__, Litu Rout, Tan Nguyen, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2209.13570)]
+
 
 ## Professional Services
 Reviewer at ICML (2022), NeurIPS (2022), AISTATS (2022, 2023).
