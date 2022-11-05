@@ -27,3 +27,4 @@ redirect_from:
 
 [Trang Nguyen](https://nguyenvuthientrang.github.io) Undergraduate Student, School of Information and Communication Technology, Hanoi University of Science and Technology
 
+[Huy Nguyen](https://huynm99.github.io) - Ph.D Student, Department of Statistics and Data Sciences, University of Texas, Austin
