@@ -32,5 +32,3 @@ My current research focuses mainly on Optimal Transport theory, in which I utili
 Under review [[arXiv](https://arxiv.org/abs/2210.10268)]
 
 
-## Professional Services
-Reviewer at ICML (2022), NeurIPS (2022), AISTATS (2022, 2023).
