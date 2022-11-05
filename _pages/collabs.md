@@ -23,7 +23,7 @@ redirect_from:
 
 [Khai Nguyen](https://khainb.github.io/) - Ph.D Student, Department of Statistics and Data Science, University of Texas, Austin
 
-[Dat Do](https://dodat619.github.io/) - Phd Student, Department of Statistics, University of Michigan, Ann Arbor
+[Dat Do](https://dodat619.github.io/) - Ph.D Student, Department of Statistics, University of Michigan, Ann Arbor
 
 [Trang Nguyen](https://nguyenvuthientrang.github.io) Undergraduate Student, School of Information and Communication Technology, Hanoi University of Science and Technology
 
