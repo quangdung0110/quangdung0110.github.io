@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Quang Dung Le (in Vietnamese: Lê Quang Dũng, in Chinese: 黎光勇) and I am a second-year *Ingénieur* student (Master's level) at the [École Polytechnique](https://www.polytechnique.edu).  I am currently doing research under the guidance of Professor [Nhat Ho](https://nhatptnk8912.github.io/index.html). Before that, I graduated from the Department of Mathematics, Mechanics, and Informatics, VNU University of Science, Ha Noi
+Welcome to my homepage! My full name is Quang Dung Le (in Vietnamese: Lê Quang Dũng, in Chinese: 黎光勇) and I am a second-year *Ingénieur* student (Master's level) at the [École Polytechnique](https://www.polytechnique.edu).  I am currently doing research under the guidance of Professor [Nhat Ho](https://nhatptnk8912.github.io/index.html). Before that, I graduated from the [Department of Mathematics, Mechanics, and Informatics](http://mim.hus.vnu.edu.vn), [VNU University of Science](http://hus.vnu.edu.vn), Ha Noi
 
 Email: dung.le-quang@polytechnique.edu
 ## Research Interests 
