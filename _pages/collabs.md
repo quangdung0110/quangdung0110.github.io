@@ -14,6 +14,8 @@ redirect_from:
 
 [Nhat Ho](https://nhatptnk8912.github.io/) - Assistant Professor, Department of Statistics and Data Science, University of Texas at Austin
 
+[Cong Son Ta] (https://scholar.google.com.vn/citations?user=dnDDuUMAAAAJ&hl=en) - Assistant Professor, Department of Mathematics, Mechanics, and Informatics, VNU University of Science
+
 [Tung Pham](https://scholar.google.com.au/citations?user=KcUuEKsAAAAJ&hl=en) - Research Scientist, VinAI Research
 
 
