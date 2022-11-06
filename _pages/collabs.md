@@ -25,6 +25,6 @@ redirect_from:
 
 [Dat Do](https://dodat619.github.io/) - Ph.D Student, Department of Statistics, University of Michigan, Ann Arbor
 
-[Trang Nguyen](https://nguyenvuthientrang.github.io) Undergraduate Student, School of Information and Communication Technology, Hanoi University of Science and Technology
+[Trang Nguyen](https://nguyenvuthientrang.github.io) - Undergraduate Student, School of Information and Communication Technology, Hanoi University of Science and Technology
 
 [Huy Nguyen](https://huynm99.github.io) - Ph.D Student, Department of Statistics and Data Sciences, University of Texas, Austin
