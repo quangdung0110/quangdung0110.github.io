@@ -31,7 +31,7 @@ ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023
 
 ### Rate of Convergence in the Smoluchowski-Kramers Approximation for Mean-field Stochastic Differential Equations
 Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong*<br/>
-ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023  [[arXiv](https://arxiv.org/pdf/2209.11967.pdf)] [[Springer](https://link.springer.com/article/10.1007/s11118-023-10078-5)]
+Potential Analysis, 2023  [[arXiv](https://arxiv.org/pdf/2209.11967.pdf)] [[Springer](https://link.springer.com/article/10.1007/s11118-023-10078-5)]
 
 
 
