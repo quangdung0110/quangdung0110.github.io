@@ -8,7 +8,7 @@ link: https://openreview.net/forum?id=u3JeFO8G8s
 ---
 
 [comment]: <> (<a href="https://openreview.net/forum?id=u3JeFO8G8s">OpenReview</a>.)
-Dung Le\*, <b>Huy Nguyen\*</b>, Khai Nguyen\*, Trang Nguyen, Nhat Ho
+<b>Dung Le\*</b>, Huy Nguyen\*, Khai Nguyen\*, Trang Nguyen, Nhat Ho
 
 Abstract: Generalized sliced Wasserstein distance is a variant of sliced Wasserstein distance
 that exploits the power of non-linear projection through a given defining function to
