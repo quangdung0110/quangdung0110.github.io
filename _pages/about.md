@@ -24,7 +24,7 @@ My current research focuses mainly on Optimal Transport theory, in which I utili
 <span style="color:red"> (**\*) denotes equal contribution.** </span> <br/>
 ## Publications
 ### Fast Approximation of the Generalized Sliced-Wasserstein Distance
-Huy Nguyen\*, Khang Le\*, *__Dung Le__\*, Dat Do, Tung Pham, Nhat Ho*<br/>
+*__Dung Le__\*, Huy Nguyen\*, Khai Nguyen\*, Nhat Ho*<br/>
 ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023  [[arXiv](https://arxiv.org/abs/2210.10268)] [[OpenReview](https://openreview.net/forum?id=u3JeFO8G8s)]
 
 
@@ -36,7 +36,7 @@ Potential Analysis, 2023  [[arXiv](https://arxiv.org/pdf/2209.11967.pdf)] [[Spri
 
 
 ### Entropic Gromov-Wasserstein between Gaussian Distributions
-*__Dung Le__\*, Huy Nguyen\*, Khai Nguyen\*, Nhat Ho*<br/>
+Huy Nguyen\*, Khang Le\*, *__Dung Le__\*, Dat Do, Tung Pham, Nhat Ho*<br/>
 39th International Conference on Machine Learning (ICML 2022)  [[arXiv](https://arxiv.org/abs/2108.10961)] [[ICML](https://proceedings.mlr.press/v162/le22a.html)]
 
 
