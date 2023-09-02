@@ -25,13 +25,13 @@ My current research focuses mainly on Optimal Transport theory, in which I utili
 ## Publications
 ### Fast Approximation of the Generalized Sliced-Wasserstein Distance
 Huy Nguyen\*, Khang Le\*, *__Dung Le__\*, Dat Do, Tung Pham, Nhat Ho*<br/>
-ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023  [[arXiv](https://arxiv.org/abs/2210.10268)] [[ICML](https://openreview.net/pdf?id=u3JeFO8G8s)]
+ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023  [[arXiv](https://arxiv.org/abs/2210.10268)] [[OpenReview](https://openreview.net/forum?id=u3JeFO8G8s)]
 
 
 
 ### Rate of Convergence in the Smoluchowski-Kramers Approximation for Mean-field Stochastic Differential Equations
 Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong*<br/>
-ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023  [[arXiv](https://arxiv.org/abs/2210.10268)] [[ICML](https://openreview.net/pdf?id=u3JeFO8G8s)]
+ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023  [[arXiv](https://arxiv.org/abs/2210.10268)] [[Springer](https://link.springer.com/article/10.1007/s11118-023-10078-5)]
 
 
 
