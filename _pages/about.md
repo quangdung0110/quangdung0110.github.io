@@ -17,7 +17,7 @@ Email: quangdung0110@utexas.edu
 ## Research Interests 
 My research interests lie in theoretical statistics and machine learning, particularly finite mixture models and mixture-of-experts architectures. I study identifiability, overspecification, minimax theory, and parameter convergence rates, with the goal of developing rigorous statistical tools for understanding modern AI models. I am also broadly interested in optimal transport, generative models, and stochastic processes.
 ## Recent News
-- **[Jan 2026]** Our paper [[1]([https://openreview.net/pdf?id=u3JeFO8G8s](https://openreview.net/pdf?id=EWl46BVj24))] on Optimal Transport and Optimization is accepted to AISTATS 2026.
+- **[Jan 2026]** Our paper [[1][https://openreview.net/pdf?id=u3JeFO8G8s](https://openreview.net/pdf?id=EWl46BVj24)] on Optimal Transport and Optimization is accepted to AISTATS 2026.
 
 - **[Sep 2025]** Our paper [[1](https://proceedings.neurips.cc/paper_files/paper/2025/file/0a1ad015d9d98f1a64219b12803ceffd-Paper-Conference.pdf)] on Mixture of Expert is accepted to Potential Analysis.
 
