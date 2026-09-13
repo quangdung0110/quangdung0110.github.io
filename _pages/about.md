@@ -54,7 +54,7 @@ Weichen Wu\*, __Le Quang Dung__, Arun Kumar Kuchibhotla, Alessandro Rinaldo.*<br
 __[P2]__ [Strong laws of large numbers for weighted sums of 𝑑-dimensional arrays of random variables and applications to marked point processes](https://pubs.ams.org/TPMS/2024-111-00/S0094-9000-2024-01220-7). *Theory of Probability and Mathematical Statistics,2024.*<br/>
 Ta Cong Son, Tran Manh Cuong, __Le Quang Dung__ and Le Van Dung.*<br/>
 __[P1]__ [Rate of Convergence in the Smoluchowski-Kramers Approximation for Mean-field Stochastic Differential Equations](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=cc5JeMIAAAAJ&sortby=pubdate&citation_for_view=cc5JeMIAAAAJ:u-x6o8ySG0sC). *Potential Analysis, 2023.*<br/>
-Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong*<br/>
+Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong.*<br/>
 
 ## Publications on the Optimal Transport and Optimization
 __[O3]__ [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold](https://openreview.net/pdf?id=EWl46BVj24). *AISTATS 2026*<br/>
