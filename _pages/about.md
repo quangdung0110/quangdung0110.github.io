@@ -13,7 +13,7 @@ redirect_from:
    
 Welcome to my homepage! My full name is Quang Dung Le (in Vietnamese: Lê Quang Dũng, in Chinese: 黎光勇) and I am a third-year PhD Student at the [Department of Statistics and Data Science](https://stat.utexas.edu/).  I am currently doing research under the guidance of Professor [Nhat Ho](https://nhatptnk8912.github.io/index.html) and Professor [Alessandro Rinaldo](https://arinaldo.github.io). Before that, I completed my *Diplôme d'Ingénieur* (Master level) at [École polytechnique](https://www.polytechnique.edu), and I graduated from the [Department of Mathematics, Mechanics, and Informatics](http://mim.hus.vnu.edu.vn), [VNU University of Science](http://hus.vnu.edu.vn). 
 
-Outside of research, I enjoy working out, reading, and learning foreign languages.
+Outside of research, I enjoy working out, reading, and learning foreign languages, and listening to European pop, chanson, and rock music.
 
 Email: quangdung0110@utexas.edu 
 ## Research Interests 
