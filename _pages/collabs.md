@@ -1,7 +1,7 @@
 ---
 permalink: /collabs/
 title: "Collaborators"
-excerpt: "Collaborators"
+excerpt: "Collaborators"t
 author_profile: true
 redirect_from: 
   - "/wordpress/"
@@ -12,21 +12,31 @@ redirect_from:
 
 ## Senior collaborators (in random order)
 
-[Nhat Ho](https://nhatptnk8912.github.io/) - Assistant Professor, Department of Statistics and Data Science, University of Texas at Austin
+[Alessandro Rinaldo](https://arinaldo.github.io) - Professor, Department of Statistics and Data Science, University of Texas at Austin.
 
-[Cong Son Ta](https://scholar.google.com.vn/citations?user=dnDDuUMAAAAJ&hl=en) - Associate Professor, Department of Mathematics, Mechanics, and Informatics, VNU University of Science
+[Nhat Ho](https://nhatptnk8912.github.io/) - Associate Professor, Department of Statistics and Data Science, University of Texas at Austin.
 
-[Tung Pham](https://scholar.google.com.au/citations?user=KcUuEKsAAAAJ&hl=en) - Research Scientist, VinAI Research
+[Cong Son Ta](https://scholar.google.com.vn/citations?user=dnDDuUMAAAAJ&hl=en) - Associate Professor, Department of Mathematics, Mechanics, and Informatics, VNU University of Science.
+
+[Tung Pham](https://scholar.google.com.au/citations?user=KcUuEKsAAAAJ&hl=en) - Research Scientist, VinAI Research.
+
+[Khai Nguyen](https://khainb.github.io/) - Assistant Professor, Department of Statistics, Texas A&M University.
+
+[Dat Do](https://dodat97.github.io) - William H. Kruskal Instructor, Department of Statistics, University of Chicago.
 
 
 ## Junior collaborators (in random order)
 
-[Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
+[Trang Pham](https://phamvuhuyentrang.github.io) - Ph.D Student, Department of Statistics and Data Science, University of Texas, Austin.
 
-[Khai Nguyen](https://khainb.github.io/) - Ph.D Student, Department of Statistics and Data Science, University of Texas, Austin
+[Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin.
 
-[Dat Do](https://dodat619.github.io/) - Ph.D Student, Department of Statistics, University of Michigan, Ann Arbor
+[Fanqi Yan](https://scholar.google.com/citations?user=MNUHhkYAAAAJ&hl=en) - Ph.D Student, Department of Computer Science, University of Texas, Austin.
 
-[Trang Nguyen](https://nguyenvuthientrang.github.io) - Undergraduate Student, School of Information and Communication Technology, Hanoi University of Science and Technology
+[Trang Nguyen](https://nguyenvuthientrang.github.io) - PhD Student, Department of Computer Science, Carnegie Mellon University.
 
-[Huy Nguyen](https://huynm99.github.io) - Ph.D Student, Department of Statistics and Data Sciences, University of Texas, Austin
+[Huy Nguyen](https://huynm99.github.io) - Ph.D Student, Department of Statistics and Data Sciences, University of Texas, Austin.
+
+[Nicola Bariletto](https://nbariletto.github.io) - Ph.D Student, Department of Statistics and Data Sciences, University of Texas, Austin.
+
+[Pedram Akabrian](https://pedakb.github.io) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin.
