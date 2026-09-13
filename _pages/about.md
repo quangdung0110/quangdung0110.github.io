@@ -27,29 +27,29 @@ My research interests lie in theoretical statistics and machine learning, partic
 ## Publications on the Theory of Mixture of Experts
 
 __[T7]__ [Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models](https://arxiv.org/pdf/2608.08597). *Under Review.*<br/>
-*__Dung Le__\*, Nicola Bariletto\*, Alessandro Rinaldo, Nhat Ho.*<br/>
+*__Dung Le__\*, Nicola Bariletto\*, Alessandro Rinaldo, Nhat Ho.<br/>
 
 __[T6]__ [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/pdf/2606.16179). *Under Review.*<br/>
-Huy Nguyen\*, __Dung Le__\*, Alessandro Rinaldo, Nhat Ho.*<br/>
+Huy Nguyen\*, __Dung Le__\*, Alessandro Rinaldo, Nhat Ho.<br/>
 
 __[T5]__ [Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models](https://arxiv.org/pdf/2605.06845). *Under Review.*<br/>
-Nicola Bariletto\*, __Dung Le__\*, Alessandro Rinaldo, Nhat Ho.*<br/>
+Nicola Bariletto\*, __Dung Le__\*, Alessandro Rinaldo, Nhat Ho.<br/>
 
 __[T4]__ [Improving Minimax Estimation Rates for Contaminated Mixture of Multinomial Logistic Experts via Expert Heterogeneity](https://arxiv.org/pdf/2602.00939). *Under Review.*<br/>
-Fanqi Yan\*, __Dung Le__\*, Trang Pham, Huy Nguyen, Nhat Ho.*<br/>
+Fanqi Yan\*, __Dung Le__\*, Trang Pham, Huy Nguyen, Nhat Ho.<br/>
 
 __[T3]__ [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/pdf/2510.04295v2). *Under Review.*<br/>
-Nghiem T. Diep*, __Dung Le__\*, Tuan Truong*, Tan Dinh, Huy Nguyen, Nhat Ho.*<br/>
+Nghiem T. Diep*, __Dung Le__\*, Tuan Truong*, Tan Dinh, Huy Nguyen, Nhat Ho.<br/>
 
 __[T2]__ [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://proceedings.neurips.cc/paper_files/paper/2025/file/0a1ad015d9d98f1a64219b12803ceffd-Paper-Conference.pdf). *NeurIPS 2025.*<br/>
-Fanqi Yan\*, Huy Nguyen\*, __Dung Le__\*, Pedram Akbarian, Nhat Ho, Alessandro Rinaldo.*<br/>
+Fanqi Yan\*, Huy Nguyen\*, __Dung Le__\*, Pedram Akbarian, Nhat Ho, Alessandro Rinaldo.<br/>
 
 __[T1]__ [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://proceedings.mlr.press/v258/yan25c.html). *AISTATS 2025.*<br/>
-Fanqi Yan\*, Huy Nguyen\*, __Le Quang Dung__\*, Pedram Akbarian, Nhat Ho.*<br/>
+Fanqi Yan\*, Huy Nguyen\*, __Le Quang Dung__\*, Pedram Akbarian, Nhat Ho.<br/>
 
 ## Publications on the Probability Theory and Stochastic Analysis 
 __[P3]__ [Berry-Esseen bounds for multivariate martingale difference sequences in the Kolmogorov distance](https://arxiv.org/pdf/2605.03100). *Under Review.*<br/>
-Weichen Wu\*, __Le Quang Dung__, Arun Kumar Kuchibhotla, Alessandro Rinaldo.*<br/>
+Weichen Wu, __Le Quang Dung__\*, Arun Kumar Kuchibhotla\*, Alessandro Rinaldo\*.<br/>
 
 __[P2]__ [Strong laws of large numbers for weighted sums of 𝑑-dimensional arrays of random variables and applications to marked point processes](https://pubs.ams.org/TPMS/2024-111-00/S0094-9000-2024-01220-7). *Theory of Probability and Mathematical Statistics, 2024.*<br/>
 Ta Cong Son, Tran Manh Cuong, __Le Quang Dung__, Le Van Dung.*<br/>
@@ -58,13 +58,13 @@ Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong.*<br/>
 
 ## Publications on the Optimal Transport and Optimization
 __[O3]__ [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold](https://openreview.net/pdf?id=EWl46BVj24). *AISTATS 2026*<br/>.
-Ngoc-Hai Nguyen\*, __Dung Le__\* Hoang-Phi Nguyen, Tung Pham, Nhat Ho.*<br/>
+Ngoc-Hai Nguyen\*, __Dung Le__\* Hoang-Phi Nguyen, Tung Pham, Nhat Ho.<br/>
 
 __[O2]__ [Fast approximation of the generalized sliced-Wasserstein distance](https://ieeexplore.ieee.org/document/10447733). *ICASSP 2024.*<br/>
-*__Dung Le__*, Huy Nguyen\*, Khai Nguyen\*, Trang Nguyen, Nhat Ho.*<br/>
+*__Dung Le__*, Huy Nguyen\*, Khai Nguyen\*, Trang Nguyen, Nhat Ho.<br/>
 
 __[O1]__ [Entropic Gromov-Wasserstein between Gaussian Distributions](https://proceedings.mlr.press/v162/le22a.html). *ICML 2022.*<br/>
-Huy Nguyen\*, Khang Le\*, *__Dung Le__\*, Dat Do, Tung Pham, Nhat Ho.*<br/>
+Huy Nguyen\*, Khang Le\*, *__Dung Le__\*, Dat Do, Tung Pham, Nhat Ho.<br/>
 
 
 
