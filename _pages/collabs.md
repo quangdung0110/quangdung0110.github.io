@@ -1,7 +1,7 @@
 ---
 permalink: /collabs/
 title: "Collaborators"
-excerpt: "Collaborators"t
+excerpt: "Collaborators"
 author_profile: true
 redirect_from: 
   - "/wordpress/"
