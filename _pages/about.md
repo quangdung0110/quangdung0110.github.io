@@ -57,7 +57,7 @@ __[P1]__ [Rate of Convergence in the Smoluchowski-Kramers Approximation for Mean
 Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong.*<br/>
 
 ## Publications on the Optimal Transport and Optimization
-__[O3]__ [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold](https://openreview.net/pdf?id=EWl46BVj24). *AISTATS 2026*<br/>
+__[O3]__ [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport-based Method on Bures-Wasserstein manifold](https://openreview.net/pdf?id=EWl46BVj24). *AISTATS 2026*<br/>.
 Ngoc-Hai Nguyen\*, __Dung Le__\* Hoang-Phi Nguyen, Tung Pham, Nhat Ho.*<br/>
 
 __[O2]__ [Fast approximation of the generalized sliced-Wasserstein distance](https://ieeexplore.ieee.org/document/10447733). *ICASSP 2024.*<br/>
