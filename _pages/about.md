@@ -27,10 +27,10 @@ My research interests lie in theoretical statistics and machine learning, partic
 ## Publications on the Theory of Mixture of Experts
 
 __[T8]__ [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/pdf/2609.16622). *Under Review.*<br/>
-*__Dung Le__\*, Huy Nguyen\*, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
+__Dung Le__\*, Huy Nguyen\*, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
 
 __[T7]__ [Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models](https://arxiv.org/pdf/2608.08597). *Under Review.*<br/>
-*__Dung Le__\*, Nicola Bariletto\*, Alessandro Rinaldo, Nhat Ho.<br/>
+__Dung Le__\*, Nicola Bariletto\*, Alessandro Rinaldo, Nhat Ho.<br/>
 
 __[T6]__ [On the Geometry of Separation in Finite Gaussian Mixtures](https://arxiv.org/pdf/2606.16179). *Under Review.*<br/>
 Huy Nguyen\*, __Dung Le__\*, Alessandro Rinaldo, Nhat Ho.<br/>
