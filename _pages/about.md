@@ -42,7 +42,7 @@ __[T4]__ [Improving Minimax Estimation Rates for Contaminated Mixture of Multino
 Fanqi Yan\*, __Dung Le__\*, Trang Pham, Huy Nguyen, Nhat Ho.<br/>
 
 __[T3]__ [Hypernetwork-Driven Low-Rank Adaptation Across Attention Heads](https://arxiv.org/pdf/2510.04295v2). *Under Review.*<br/>
-Nghiem T. Diep*, __Dung Le__\*, Tuan Truong*, Tan Dinh, Huy Nguyen, Nhat Ho.<br/>
+Nghiem T. Diep\*, __Dung Le__\*, Tuan Truong*, Tan Dinh, Huy Nguyen, Nhat Ho.<br/>
 
 __[T2]__ [On Minimax Estimation of Parameters in Softmax-Contaminated Mixture of Experts](https://proceedings.neurips.cc/paper_files/paper/2025/file/0a1ad015d9d98f1a64219b12803ceffd-Paper-Conference.pdf). *NeurIPS 2025.*<br/>
 Fanqi Yan\*, Huy Nguyen\*, __Dung Le__\*, Pedram Akbarian, Nhat Ho, Alessandro Rinaldo.<br/>
@@ -60,6 +60,7 @@ __[P1]__ [Rate of Convergence in the Smoluchowski-Kramers Approximation for Mean
 Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong.*<br/>
 
 ## Publications on the Optimal Transport and Optimization
+
 __[O4]__ [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/pdf/2609.16622). *Under Review.*<br/>
 *__Dung Le__\*, Huy Nguyen\*, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
 
@@ -67,10 +68,10 @@ __[O3]__ [On Barycenter Computation: Analyzing Semi-Unbalanced Optimal Transport
 Ngoc-Hai Nguyen\*, __Dung Le__\* Hoang-Phi Nguyen, Tung Pham, Nhat Ho.<br/>
 
 __[O2]__ [Fast approximation of the generalized sliced-Wasserstein distance](https://ieeexplore.ieee.org/document/10447733). *ICASSP 2024.*<br/>
-*__Dung Le__*, Huy Nguyen\*, Khai Nguyen\*, Trang Nguyen, Nhat Ho.<br/>
+__Dung Le__*, Huy Nguyen\*, Khai Nguyen\*, Trang Nguyen, Nhat Ho.<br/>
 
 __[O1]__ [Entropic Gromov-Wasserstein between Gaussian Distributions](https://proceedings.mlr.press/v162/le22a.html). *ICML 2022.*<br/>
-Huy Nguyen\*, Khang Le\*, *__Dung Le__\*, Dat Do, Tung Pham, Nhat Ho.<br/>
+Huy Nguyen\*, Khang Le\*, __Dung Le__\*, Dat Do, Tung Pham, Nhat Ho.<br/>
 
 
 
