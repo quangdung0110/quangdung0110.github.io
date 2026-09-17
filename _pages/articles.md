@@ -15,6 +15,9 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## Journal Submissions
 
+**[JS.5]** [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/abs/2609.16622). *Under Review.*<br/>
+**Dung Le**\*, Huy Nguyen\*, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
+
 **[JS.4]** [Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models](https://arxiv.org/pdf/2608.08597). *Under Review.*<br/>
 **Dung Le**\*, Nicola Bariletto\*, Alessandro Rinaldo, Nhat Ho.<br/>
 
