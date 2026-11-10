@@ -15,6 +15,15 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## Journal Submissions
 
+**[JS.8]** [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/pdf/2611.01602). *Under Review.*<br/>
+Huy Nguyen, **Dung Le**, Alessandro Rinaldo, Nhat Ho.<br/>
+
+**[JS.7]** [The Statistical Geometry of Latent Recovery in Hidden Markov Models](https://arxiv.org/pdf/2611.00680). *Under Review.*<br/>
+Trang Pham\*, **Dung Le**\*, Alessandro Rinaldo, Nhat Ho.<br/>
+
+**[JS.6]** [Weak Limits of Parameter Estimation in Strongly Identifiable Mixture Models](https://arxiv.org/pdf/2610.25857). *Under Review.*<br/>
+**Dung Le**, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
+
 **[JS.5]** [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/abs/2609.16622). *Under Review.*<br/>
 **Dung Le**\*, Huy Nguyen\*, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
 
