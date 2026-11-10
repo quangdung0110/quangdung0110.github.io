@@ -26,6 +26,15 @@ My research interests lie in theoretical statistics and machine learning, partic
 <span style="color:red"> (**\*) denotes equal contribution.** </span> <br/>
 ## Publications on the Theory of Mixture of Experts
 
+__[T11]__ [When Does Sparse Routing Help? The Geometry of Expert Separation in Mixture of Experts](https://arxiv.org/pdf/2611.01602). *Under Review.*<br/>
+Huy Nguyen, __Dung Le__, Alessandro Rinaldo, Nhat Ho.<br/>
+
+__[T10]__ [The Statistical Geometry of Latent Recovery in Hidden Markov Models](https://arxiv.org/pdf/2611.00680). *Under Review.*<br/>
+Trang Pham\*, __Dung Le__\*, Alessandro Rinaldo, Nhat Ho.<br/>
+
+__[T9]__ [Weak Limits of Parameter Estimation in Strongly Identifiable Mixture Models](https://arxiv.org/pdf/2610.25857). *Under Review.*<br/>
+__Dung Le__, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
+
 __[T8]__ [Characterizing Heterogeneous Rates in Finite Mixture Estimation via Partial Optimal Transport](https://arxiv.org/pdf/2609.16622). *Under Review.*<br/>
 __Dung Le__\*, Huy Nguyen\*, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
 
@@ -51,11 +60,15 @@ __[T1]__ [Understanding Expert Structures on Minimax Parameter Estimation in Con
 Fanqi Yan\*, Huy Nguyen\*, __Le Quang Dung__\*, Pedram Akbarian, Nhat Ho.<br/>
 
 ## Publications on the Probability Theory and Stochastic Analysis 
+__[P4]__ [Weak Limits of Parameter Estimation in Strongly Identifiable Mixture Models](https://arxiv.org/pdf/2610.25857). *Under Review.*<br/>
+__Dung Le__, Trang Pham, Alessandro Rinaldo, Nhat Ho.<br/>
+
 __[P3]__ [Berry-Esseen bounds for multivariate martingale difference sequences in the Kolmogorov distance](https://arxiv.org/pdf/2605.03100). *Under Review.*<br/>
 Weichen Wu, __Le Quang Dung__\*, Arun Kumar Kuchibhotla\*, Alessandro Rinaldo\*.<br/>
 
 __[P2]__ [Strong laws of large numbers for weighted sums of 𝑑-dimensional arrays of random variables and applications to marked point processes](https://pubs.ams.org/TPMS/2024-111-00/S0094-9000-2024-01220-7). *Theory of Probability and Mathematical Statistics, 2024.*<br/>
 Ta Cong Son, Tran Manh Cuong, __Le Quang Dung__, Le Van Dung.*<br/>
+
 __[P1]__ [Rate of Convergence in the Smoluchowski-Kramers Approximation for Mean-field Stochastic Differential Equations](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=cc5JeMIAAAAJ&sortby=pubdate&citation_for_view=cc5JeMIAAAAJ:u-x6o8ySG0sC). *Potential Analysis, 2023.*<br/>
 Ta Cong Son\*, __Dung Quang Le__\*, Manh Hong Duong.*<br/>
 
